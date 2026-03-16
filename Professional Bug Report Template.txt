@@ -1,0 +1,32 @@
+﻿Bug ID:
+Title:
+
+
+Environment:
+Browser:
+Operating System:
+URL:
+
+
+Precondition:
+
+
+Steps to Reproduce:
+1.
+2.
+3.
+4.
+
+
+Expected Result:
+
+
+Actual Result:
+
+
+Severity:
+Priority:
+
+
+Attachment:
+Screenshot / Video
