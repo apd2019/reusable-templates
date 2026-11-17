@@ -1,0 +1,21 @@
+> src/test/resources
+> src/test/java
+  - org.testScenariosAndExecutions
+    - base
+      - BaseTest.java
+    - tests
+      - testClassesHere (all java files)
+> src/main/resources
+> src/main/java
+  - org.reusableFrameworkClasses
+    - config
+    - constants
+    - driver
+      - driverExecutable
+        - driver.exe
+      - driverFactory.java
+    - listeners
+    - pages
+      - pageObjectsHere (all java files)
+    - utils
+      - waitUtils.java
