@@ -1,11 +1,24 @@
 > src/test/resources [test level resources - configurations that the test execution needs, will go here]
+  - testng.xml
+  - smoke.properties
+  - regression.properties
+  - testdata.json
+  - Login.feature
+  - users.xlsx
+
 > src/test/java [all test codes which will be executed to validate the test, will go here]
   - org.testScenariosAndExecutions 
     - base
       - BaseTest.java
     - tests
       - testClassesHere (all java files)
+
 > src/main/resources [framework level resources - configurations that the framework needs, will go here]
+  - config.properties
+  - log4j2.xml
+  - extent-config.xml
+  - framework.properties
+
 > src/main/java [all reusable framework classes go here]
   - org.reusableFrameworkClasses
     - config
