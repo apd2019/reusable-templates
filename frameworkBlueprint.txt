@@ -1,3 +1,7 @@
+resource->
+https://chatgpt.com/c/6afc9efa-c1e4-83ee-ab73-d152f1c2b0ff#:~:text=difference%20between%20the%20configuration%20files%20inside%20src%2Fmain%2Fresources%20vs%20src%2Ftest%2Fresources
+User -> arka9474
+
 > src/test/resources [test level resources - configurations that the test execution needs, will go here]
   - testng.xml
   - smoke.properties
