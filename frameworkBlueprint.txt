@@ -1,12 +1,12 @@
-> src/test/resources
-> src/test/java
-  - org.testScenariosAndExecutions
+> src/test/resources [test level resources - configurations that the test execution needs, will go here]
+> src/test/java [package] [all test codes which will be executed to validate the test, will go here]
+  - org.testScenariosAndExecutions 
     - base
       - BaseTest.java
     - tests
       - testClassesHere (all java files)
-> src/main/resources
-> src/main/java
+> src/main/resources [framework level resources - configurations that the framework needs, will go here]
+> src/main/java [all reusable framework classes go here]
   - org.reusableFrameworkClasses
     - config
     - constants
