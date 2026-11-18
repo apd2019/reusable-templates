@@ -1,5 +1,5 @@
 > src/test/resources [test level resources - configurations that the test execution needs, will go here]
-> src/test/java [package] [all test codes which will be executed to validate the test, will go here]
+> src/test/java [all test codes which will be executed to validate the test, will go here]
   - org.testScenariosAndExecutions 
     - base
       - BaseTest.java
