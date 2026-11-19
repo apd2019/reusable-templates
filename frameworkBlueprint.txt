@@ -26,7 +26,7 @@ User -> arka9474
 > src/main/java [all reusable framework classes go here]
   - org.reusableFrameworkClasses
     - config
-    - constants
+    - constants [stores fixed, immutable values that rarely change during test execution]
     - driver
       - driverExecutable
         - driver.exe
@@ -35,4 +35,4 @@ User -> arka9474
     - pages
       - pageObjectsHere (all java files)
     - utils
-      - waitUtils.java
+      - waitUtils.java [wait 
