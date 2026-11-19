@@ -35,4 +35,5 @@ User -> arka9474
     - pages
       - pageObjectsHere (all java files)
     - utils
-      - waitUtils.java [wait 
+      - waitUtils.java
+
